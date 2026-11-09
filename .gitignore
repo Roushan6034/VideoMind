@@ -1,0 +1,9 @@
+.env
+downloads/
+vector_db/
+__pycache__/
+*.pyc
+.streamlit/
+.idea/
+.DS_Store
+DOCUMENTATION.html
